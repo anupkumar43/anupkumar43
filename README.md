@@ -1,5 +1,3 @@
-
-![My photo](assets/banner.png)
 ### Hi 👋, Wellcome to my Github Page!
 
 ### 🧑‍💻 About Me
